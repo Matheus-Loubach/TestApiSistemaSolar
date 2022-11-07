@@ -73,7 +73,7 @@ app.get('/planetas',(req, res) =>{
         translacao:686.971,
         temperatura:63,
         atmosfera:'Dióxido de Carbono,Argônio,Nitrogênio,Oxigênio,Monóxido de carbono',
-        img: 'https://solarsystem.nasa.gov/system/stellar_items/list_view_images/6_mars_480x320.jpg'
+        img: 'https://solarsystem.nasa.gov/system/stellar_items/list_view_images/9_jupiter_480x320_new.jpg'
       },
       {
         id:6,
@@ -86,7 +86,7 @@ app.get('/planetas',(req, res) =>{
         translacao:686.971,
         temperatura:63,
         atmosfera:'Dióxido de Carbono,Argônio,Nitrogênio,Oxigênio,Monóxido de carbono',
-        img: 'https://solarsystem.nasa.gov/system/stellar_items/list_view_images/6_mars_480x320.jpg'
+        img: 'https://solarsystem.nasa.gov/system/stellar_items/list_view_images/38_saturn_480x320.jpg'
       },
       {
         id:7,
@@ -99,7 +99,7 @@ app.get('/planetas',(req, res) =>{
         translacao:686.971,
         temperatura:63,
         atmosfera:'Dióxido de Carbono,Argônio,Nitrogênio,Oxigênio,Monóxido de carbono',
-        img: 'https://solarsystem.nasa.gov/system/stellar_items/list_view_images/6_mars_480x320.jpg'
+        img: 'https://solarsystem.nasa.gov/system/stellar_items/list_view_images/69_uranus_480x320.jpg'
       },
       {
         id:8,
@@ -112,7 +112,7 @@ app.get('/planetas',(req, res) =>{
         translacao:686.971,
         temperatura:63,
         atmosfera:'Dióxido de Carbono,Argônio,Nitrogênio,Oxigênio,Monóxido de carbono',
-        img: 'https://solarsystem.nasa.gov/system/stellar_items/list_view_images/6_mars_480x320.jpg'
+        img: 'https://solarsystem.nasa.gov/system/stellar_items/list_view_images/90_neptune_480x320.jpg'
       },
     ]
   })
