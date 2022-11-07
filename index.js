@@ -8,7 +8,7 @@ const PORT = process.env.PORT || 8877;
 
 app.get('/planetas',(req, res) =>{
   res.json({
-    products: [
+    planeta: [
       {
         id: 1,
         name: 'Marte',
