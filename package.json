@@ -1,7 +1,6 @@
 {
   "name": "back",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -19,5 +18,15 @@
     "nodemon": "^2.0.20",
     "pg": "^8.8.0",
     "psql": "^0.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matheus-Loubach/TestApiSistemaSolar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Matheus-Loubach/TestApiSistemaSolar/issues"
+  },
+  "homepage": "https://github.com/Matheus-Loubach/TestApiSistemaSolar#readme",
+  "description": ""
 }
